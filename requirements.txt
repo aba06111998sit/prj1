@@ -1,5 +1,0 @@
-Django>=4.0
-Flask>=2.0
-gunicorn fdp2.wsgi:application
-# ... other dependencies
-
